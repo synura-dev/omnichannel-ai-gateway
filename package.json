@@ -1,0 +1,13 @@
+{
+  "name": "omnichannel-ai-gateway",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Multi-Tenant Omnichannel AI Agent Gateway (Gemini, Zalo OA, Telegram, Messenger, Web)",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
